@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portafolio Personal con Elementos 3D (Vite)
 
 Este es mi portafolio web personal que destaca por la incorporación de elementos 3D, creado con React y varias bibliotecas útiles, utilizando Vite como herramienta de construcción. Aquí presento mi experiencia, proyectos y habilidades de una manera única y atractiva.
@@ -41,3 +42,6 @@ Este proyecto está bajo la Licencia [MIT](LICENSE).
 ---
 
 ¡Espero que disfrutes explorando mi portafolio personal con elementos 3D construido con Vite! Si tienes alguna pregunta o comentario, no dudes en contactarme.
+=======
+# Portafolio-Web
+>>>>>>> main
